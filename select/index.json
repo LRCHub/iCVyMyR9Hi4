@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "セントエルモの火",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-04-01T00:00:55.096152Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "セントエルモの火",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_セントエルモの火_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "セントエルモの火 (St. Elmo's Fire)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_セントエルモの火_(St._Elmo's_Fire)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "セントエルモの火",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_セントエルモの火_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
